@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Ilya Ignatov 👋</h1>
-<h3 align="center">A passionate frontend developer from Moscow. Relocated to Bali 🛬</h3>
+<h1 align="center">Hello there, I'm Ilya Ignatov 👋</h1>
+<h3 align="center">I'm fullstack developer from Moscow. Relocated to Bali 🛬</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🤓 I’m currently learning **VueJS & TypeScript**
