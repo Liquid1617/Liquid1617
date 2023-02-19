@@ -22,10 +22,10 @@
 <br/>
 <br/>
 <br/>
-- **Frontend**: JS, TypeScript, React, Hooks API, Redux, HTML5, CSS3 \n
-- **Backend**: Node.js, Express, Sessions/Tokens, WebSockets \n
-- **Data base**: PostgreSQL, Sequelize ORM \n
-- **Tests**: Jest \n
+- **Frontend**: JS, TypeScript, React, Hooks API, Redux, HTML5, CSS3 <br/>
+- **Backend**: Node.js, Express, Sessions/Tokens, WebSockets <br/>
+- **Data base**: PostgreSQL, Sequelize ORM <br/>
+- **Tests**: Jest <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liquid1617&show_icons=true&locale=en&layout=compact" alt="Liquid1617" /></p>
 
