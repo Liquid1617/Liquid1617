@@ -4,7 +4,7 @@
 
 - 🤓 I’m currently learning **VueJS & TypeScript**
 
-- 📩 How to reach me: **ilignatow@gmail.com / Telegram @liquid_98**
+- 📩 How to reach me: **ilignatow@gmail.com / Telegram https://t.me/liquid_98**
 
 - 🪪 Some facts about me: **I'm a drift lover, ex-lawyer**
 
