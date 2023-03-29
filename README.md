@@ -25,6 +25,4 @@
 - <b>Data base<b/>: PostgreSQL, Sequelize ORM <br/>
 - <b>Tests<b/>: Jest <br/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liquid1617&show_icons=true&locale=en&layout=compact" alt="Liquid1617" /></p>
-
 <p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Liquid1617&" alt="Liquid1617" /></p>
