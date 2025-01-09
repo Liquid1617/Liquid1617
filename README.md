@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Ilya Ignatov 👋</h1>
-<h3 align="center">I'm fullstack developer from Moscow. Relocated to Bali 🛬</h3>
+<h3 align="center">I'm frontend developer. Used to work as a fullstack developer</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 📩 How to reach me: **ilignatow@gmail.com / Telegram https://t.me/liquid_98**
