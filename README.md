@@ -4,8 +4,6 @@
 
 - 📩 How to reach me: **ilignatow@gmail.com / Telegram https://t.me/liquid_98**
 
-<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/liquid_16/badges/large"></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/liquid_98" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="@liquid_98" height="40" width="40" /></a>
