@@ -2,11 +2,7 @@
 <h3 align="center">I'm fullstack developer from Moscow. Relocated to Bali 🛬</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🤓 I’m currently learning **VueJS & TypeScript**
-
 - 📩 How to reach me: **ilignatow@gmail.com / Telegram https://t.me/liquid_98**
-
-- 🪪 Some facts about me: **I'm a drift lover, ex-lawyer**
 
 <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/liquid_16/badges/large"></a>
 
