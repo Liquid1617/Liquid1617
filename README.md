@@ -25,4 +25,3 @@
 - <b>Data base<b/>: PostgreSQL, Sequelize ORM <br/>
 - <b>Tests<b/>: Jest <br/>
 <br/>
-<p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Liquid1617&" alt="Liquid1617" /></p>
